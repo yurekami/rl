@@ -1,25 +1,18 @@
-# Flaky Test Report - 2026-09-03
+# Flaky Test Report - 2026-09-10
 
 ## Summary
 
-- **Flaky tests**: 1
-- **Newly flaky** (last 7 days): 1
+- **Flaky tests**: 0
+- **Newly flaky** (last 7 days): 0
 - **Resolved**: 0
-- **Total tests analyzed**: 30723
-- **CI runs analyzed**: 60
+- **Total tests analyzed**: 0
+- **CI runs analyzed**: 0
 
 ---
 
-## Flaky Tests
+## No Flaky Tests Detected! 🎉
 
-| Test | Failure Rate | Failures | Flaky Score | Last Failed |
-|------|--------------|----------|-------------|-------------|
-| `..._block_gru_triton_gradient_parity[SiLU-4-1-2-3-dtype4-48]` 🆕 | 23.3% (14/60) | 14 | 0.47 | 2026-08-30 |
-
-
-### Newly Flaky Tests
-
-- `test/modules/test_dreamer_components.py::test_public_block_gru_triton_gradient_parity[SiLU-4-1-2-3-dtype4-48]`
+All tests are passing consistently.
 
 ---
 
@@ -32,4 +25,4 @@
 
 ---
 
-*Generated at 2026-09-03T06:24:41.660437+00:00*
+*Generated at 2026-09-10T10:54:57.578526+00:00*
