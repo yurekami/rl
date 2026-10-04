@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T11:56:25.993887+00:00",
+  "last_updated": "2026-10-04T20:47:57.825096+00:00",
   "stats": {
     "last_7_days": {
       "days": 7,
@@ -22,7 +22,7 @@
     {
       "date": "2026-10-04",
       "orchestrator_ran": true,
-      "orchestrator_status": "pending",
+      "orchestrator_status": "queued",
       "orchestrator_url": "https://github.com/yurekami/rl/actions/runs/37200254258",
       "orchestrator_run_id": 37200254258,
       "workflows": {
